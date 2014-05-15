@@ -21,9 +21,11 @@
     "url": "https://github.com/github/hubot.git"
   },
   "dependencies": {
-    "hubot": ">= 2.6.0 < 3.0.0",
+    "githubot": "^1.0.0-beta2",
+    "gitio2": "^2.0.0",
+    "hubot": "^2.6.0",
     "hubot-irc": "^0.2.2",
-    "hubot-scripts": ">= 2.5.0 < 3.0.0"
+    "hubot-scripts": "slap-editor/hubot-scripts"
   },
   "engines": {
     "node": ">= 0.8.x",

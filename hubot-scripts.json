@@ -1,1 +1,6 @@
-["redis-brain.coffee", "shipit.coffee"]
+[
+  "github-commit-link.coffee",
+  "github-commits.coffee",
+  "github-issue-link.coffee",
+  "github-pull-request-notifier.coffee"
+]
