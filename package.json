@@ -2,7 +2,7 @@
   "name": "slapbot",
   "version": "0.0.0",
   "private": true,
-  "author": "Dan Kaplun <dan@secrettriangle.net>",
+  "author": "Dan Kaplun <dbkaplun@gmail.com>",
   "description": "slapbot in Freenode's #slap",
   "dependencies": {
     "githubot": "^1.0.0-beta2",
