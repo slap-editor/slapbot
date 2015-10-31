@@ -6,7 +6,7 @@
   "description": "slapbot in Freenode's #slap",
   "dependencies": {
     "githubot": "1.0.0",
-    "gitio2": "2.0.0",
+    "gitio2": "3.1.0",
     "hubot": "2.16.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-github-repo-event-notifier": "1.5.1",
