@@ -5,7 +5,7 @@
   "author": "Dan Kaplun <dbkaplun@gmail.com>",
   "description": "slapbot in Freenode's #slap",
   "dependencies": {
-    "githubot": "1.0.0",
+    "githubot": "1.0.1",
     "gitio2": "3.1.0",
     "hubot": "2.19.0",
     "hubot-diagnostics": "0.0.1",
